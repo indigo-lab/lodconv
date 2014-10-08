@@ -1,0 +1,16 @@
+http://www.example.org/*
+http://example.com/*
+http://www.georss.org/*
+
+http://purl.org/procurement/public-contracts#contact
+http://purl.org/procurement/public-contracts#estimatedPrice
+http://purl.org/procurement/public-contracts#tenderOpeningDateTime
+http://purl.org/procurement/public-contracts#location
+http://purl.org/procurement/public-contracts#kind
+http://purl.org/procurement/public-contracts#startDate
+http://purl.org/procurement/public-contracts#procedureType
+http://purl.org/procurement/public-contracts#tenderDeadline
+
+http://www.w3.org/2002/12/cal/icaltzd#dtstart
+http://www.w3.org/2002/12/cal/icaltzd#dtend
+

@@ -1,0 +1,21 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>新規登録(CMS)</title>
+</head>
+<body>
+<B>開発テスト用ページ</B>
+<form action="../cmsupload.php" method="post" enctype="multipart/form-data">
+  ファイル：<br />
+  <input type="file" name="upfile" size="30" /><br />
+  同期で変換:<input type="checkbox" name="sync" />
+  <select name="encode" size="1">
+    <option value="utf8" >UTF-8</option>
+    <option value="euc">EUC</option>
+    <option value="sjis">SJIS</option>
+  </select>  
+<br />
+  <input type="submit" value="アップロード" />
+</form>
+</body>
+</html>

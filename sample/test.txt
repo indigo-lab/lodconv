@@ -1,0 +1,6 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ex: <http://example.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@column	rdf:type	dc:title	dc:description
+ex:em0	ex:EmergencyInformation	jrrk	現在、緊急情報はありません。
